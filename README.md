@@ -1,5 +1,5 @@
 # FED Articles
-Just to store the links of good articles from various sources I coem across
+Just to store the links of good articles from various sources I come across
 ---
  
 ##### From Medium
