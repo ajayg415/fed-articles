@@ -11,6 +11,11 @@ Just to store the links of good articles from various sources I come across
 ##### Web Accessibility
 - [ADA Standards](https://hackernoon.com/web-accessibility-checklist-for-your-project-cyco3yu3)
 
+##### Javascript Datatypes
+- [JavaScript: Reviewing Primitive and Non-Primitive Data Types](https://medium.com/javascript-in-plain-english/javascript-reviewing-primitive-and-non-primitive-data-types-5bc4ca68c3de)
+- [Autoboxing in js?](https://stackoverflow.com/questions/17216847/does-javascript-autobox)
+
+
 ###### Javascript
 - [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [What is Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
@@ -42,6 +47,7 @@ Just to store the links of good articles from various sources I come across
 
 ##### Call, Apply & Bind
 - [What is this? call, apply and bind](https://hackernoon.com/lets-get-this-this-once-and-for-all-f59d76438d34)
+- [Javascript: call(), apply() and bind()](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
 
 ##### JS Design Patterns
 - [Javascript Design patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15?source=bookmarks---------0------------------) ([Github Repo](https://github.com/drenther/js-design-patterns))
@@ -68,4 +74,10 @@ Just to store the links of good articles from various sources I come across
 - [QuickSort](https://medium.com/cesars-tech-insights/quicksort-17c5d24e7e5f)
 
 ##### Webshare API
-- [Understanding webshare APIs](https://blog.bitsrc.io/understanding-web-share-apis-d987ea3648ad)
+- [Understanding webshare APIs](https://blog.bitsrc.io/understanding--apis-d987ea3648ad)
+
+##### Higher Order Function, HOF
+- [Functional Programming — Higher Order Function, HOF](https://medium.com/javascript-in-plain-english/functional-programming-higher-order-function-hof-aaa46bb444bb)
+
+##### Debounce and Throttle
+- [How to Use Debounce and Throttle in JavaScript](https://medium.com/better-programming/how-to-use-debounce-and-throttle-in-javascript-da95dc151f7b)
