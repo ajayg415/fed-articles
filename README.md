@@ -21,9 +21,9 @@ Just to store the links of good articles from various sources I come across
 - [Fetch API](https://javascript.info/fetch)
 
 ##### JS Design Patterns
-- [Javascript Design patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15?source=bookmarks---------0------------------)
-- [Github Repo](https://github.com/drenther/js-design-patterns)
+- [Javascript Design patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15?source=bookmarks---------0------------------) ([Github Repo](https://github.com/drenther/js-design-patterns))
 - [Learning JavaScript Design Patterns - A book by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Understanding Design Patterns in JavaScript](https://code.tutsplus.com/tutorials/understanding-design-patterns-in-javascript--net-25930)
 
 ##### Proxy
 - [What is Proxy](https://javascript.info/proxy)
