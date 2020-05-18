@@ -27,3 +27,11 @@ Just to store the links of good articles from various sources I come across
 
 ##### Proxy
 - [What is Proxy](https://javascript.info/proxy)
+
+##### Big O notation
+- [Big O notation in js](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
+- [A simplified explanation of Big O Notation](https://medium.com/karuna-sehgal/a-simplified-explanation-of-the-big-o-notation-82523585e835)
+
+
+##### Sorting Techniques
+- [QuickSort](https://medium.com/cesars-tech-insights/quicksort-17c5d24e7e5f)
