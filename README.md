@@ -26,7 +26,7 @@ Just to store the links of good articles from various sources I come across
 - [`this` in javascript](https://medium.com/@happymishra66/this-in-javascript-8e8d4cd3930)
 
 ##### Callback hell
-- [What is callbach hell](https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it)
+- [What is callback hell](https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it)
 - [callbackhell.com](http://callbackhell.com/)
 - [How to dealwith nested callback and 'avoid callback hell'](https://medium.com/free-code-camp/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012)
 
@@ -48,6 +48,7 @@ Just to store the links of good articles from various sources I come across
 ##### Call, Apply & Bind
 - [What is this? call, apply and bind](https://hackernoon.com/lets-get-this-this-once-and-for-all-f59d76438d34)
 - [Javascript: call(), apply() and bind()](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
+- [Understanding the "this" keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 
 ##### JS Design Patterns
 - [Javascript Design patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15?source=bookmarks---------0------------------) ([Github Repo](https://github.com/drenther/js-design-patterns))
