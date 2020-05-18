@@ -9,7 +9,7 @@ Just to store the links of good articles from various sources I come across
 - [10 tips for better redux](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 
 ##### Web Accessibility
-- [ADA Standards](https://hackernoon.com/web-accessibility-checklist-for-your-project-cyco3yu3
+- [ADA Standards](https://hackernoon.com/web-accessibility-checklist-for-your-project-cyco3yu3)
 
 ###### Javascript
 - [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
