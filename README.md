@@ -1,5 +1,6 @@
 # FED Articles
 Just to store the links of good articles from various sources I come across
+  - Note: Raise PR with good articles if you want to contribute  
 ---
  
 ##### From Medium
