@@ -32,6 +32,13 @@ Just to store the links of good articles from various sources I come across
 - [Big O notation in js](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
 - [A simplified explanation of Big O Notation](https://medium.com/karuna-sehgal/a-simplified-explanation-of-the-big-o-notation-82523585e835)
 
+##### OOPS: Inheritance
+- [Understanding prototype and Inheritance in Javascript](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+- [Class Inheritance and explanation about `super(this)`](https://javascript.info/class-inheritance)
+
+##### OOPS: Closure
+- [Javascript Closure - exmaples](https://veerasundar.com/blog/2013/08/javascript-closure-examples/)
+
 
 ##### Sorting Techniques
 - [QuickSort](https://medium.com/cesars-tech-insights/quicksort-17c5d24e7e5f)
