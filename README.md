@@ -20,6 +20,11 @@ Just to store the links of good articles from various sources I come across
 - [What is `this`](https://hackernoon.com/lets-get-this-this-once-and-for-all-f59d76438d34)
 - [`this` in javascript](https://medium.com/@happymishra66/this-in-javascript-8e8d4cd3930)
 
+##### Callback hell
+- [What is callbach hell](https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it)
+- [callbackhell.com](http://callbackhell.com/)
+- [How to dealwith nested callback and 'avoid callback hell'](https://medium.com/free-code-camp/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012)
+
 ##### Promise
 - [What is Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [Promise Basics](https://javascript.info/promise-basics)
@@ -29,6 +34,11 @@ Just to store the links of good articles from various sources I come across
 - [What is async/await](https://javascript.info/async-await)
 ##### Fetch 
 - [Fetch API](https://javascript.info/fetch)
+
+##### Callstack, Eventloop etc.
+- [What the heck is evengt loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Eventloop playground](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
+- [Understanding Javascript Function Executions — Call Stack, Event Loop , Tasks & more](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
 
 ##### Call, Apply & Bind
 - [What is this? call, apply and bind](https://hackernoon.com/lets-get-this-this-once-and-for-all-f59d76438d34)
@@ -56,3 +66,6 @@ Just to store the links of good articles from various sources I come across
 
 ##### Sorting Techniques
 - [QuickSort](https://medium.com/cesars-tech-insights/quicksort-17c5d24e7e5f)
+
+##### Webshare API
+- [Understanding webshare APIs](https://blog.bitsrc.io/understanding-web-share-apis-d987ea3648ad)
