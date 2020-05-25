@@ -89,6 +89,10 @@ Just to store the links of good articles from various sources I come across
 - [Selection Sort](https://medium.com/karuna-sehgal/an-introduction-to-selection-sort-f27ae31317dc)
 - [Merge Sort](https://initjs.org/merge-sort-in-javascript-4614386c1374)
 
+##### Searching Techniques
+- [Linear Search](https://medium.com/karuna-sehgal/an-simplified-explanation-of-linear-search-5056942ba965)
+- [Binary Search](https://medium.com/karuna-sehgal/a-simplified-interpretation-of-binary-search-246433693e0b)
+
 ##### Webshare API
 - [Understanding webshare APIs](https://blog.bitsrc.io/understanding--apis-d987ea3648ad)
 
