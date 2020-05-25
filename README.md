@@ -58,14 +58,16 @@ Just to store the links of good articles from various sources I come across
 ##### Proxy
 - [What is Proxy](https://javascript.info/proxy)
 
-##### Array
+##### Data Structures: Array
 - [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-##### Sets
+##### Data Structures: Sets
 - [From Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set#Methods)
 - [How to make your code faster using js Sets](https://medium.com/@bretcameron/how-to-make-your-code-faster-using-javascript-sets-b432457a4a77)
 - [Methods and properities of Sets](https://medium.com/better-programming/using-javascript-sets-12b526edf729)
 
+##### Data Structures: Linkedlist
+- [Single Linkedlist](https://github.com/ajayg415/js-data-structuers/tree/master/linkedlist/single-linkedlist)
 ##### Big O notation
 - [Big O notation in js](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
 - [A simplified explanation of Big O Notation](https://medium.com/karuna-sehgal/a-simplified-explanation-of-the-big-o-notation-82523585e835)
