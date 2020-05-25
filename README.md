@@ -72,7 +72,12 @@ Just to store the links of good articles from various sources I come across
 
 
 ##### Sorting Techniques
-- [QuickSort](https://medium.com/cesars-tech-insights/quicksort-17c5d24e7e5f)
+- [Array.sort()](https://medium.com/madhash/demystifying-the-mysteries-of-sort-in-javascript-515ea5b48c7d)
+- [Quick Sort](https://medium.com/cesars-tech-insights/quicksort-17c5d24e7e5f)
+- [Bubble Sort](https://initjs.org/bubble-sort-in-javascript-19fa6fdfbb46)
+- [Insertion Sort](https://initjs.org/insertion-sort-in-javascript-6c48563b4643)
+- [Selection Sort](https://medium.com/karuna-sehgal/an-introduction-to-selection-sort-f27ae31317dc)
+- [Merge Sort](https://initjs.org/merge-sort-in-javascript-4614386c1374)
 
 ##### Webshare API
 - [Understanding webshare APIs](https://blog.bitsrc.io/understanding--apis-d987ea3648ad)
