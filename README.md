@@ -21,7 +21,7 @@ Just to store the links of good articles from various sources I come across
 - [What is Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 
 
-##### This
+##### this
 - [What is `this`](https://hackernoon.com/lets-get-this-this-once-and-for-all-f59d76438d34)
 - [`this` in javascript](https://medium.com/@happymishra66/this-in-javascript-8e8d4cd3930)
 
@@ -57,6 +57,14 @@ Just to store the links of good articles from various sources I come across
 
 ##### Proxy
 - [What is Proxy](https://javascript.info/proxy)
+
+##### Array
+- [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+##### Sets
+- [From Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set#Methods)
+- [How to make your code faster using js Sets](https://medium.com/@bretcameron/how-to-make-your-code-faster-using-javascript-sets-b432457a4a77)
+- [Methods and properities of Sets](https://medium.com/better-programming/using-javascript-sets-12b526edf729)
 
 ##### Big O notation
 - [Big O notation in js](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
