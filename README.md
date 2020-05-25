@@ -8,6 +8,9 @@ Just to store the links of good articles from various sources I come across
 - [Top JS frameworks and Topics wo Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
 - [10 tips for better redux](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 
+##### Window
+- [The Window Object](https://medium.com/javascript-in-plain-english/the-window-document-object-in-javascript-7-useful-things-you-can-do-with-them-14888333ec91)
+
 ##### Web Accessibility
 - [ADA Standards](https://hackernoon.com/web-accessibility-checklist-for-your-project-cyco3yu3)
 
