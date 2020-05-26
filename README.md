@@ -75,7 +75,7 @@ Just to store the links of good articles from various sources I come across
 - [Methods and properities of Sets](https://medium.com/better-programming/using-javascript-sets-12b526edf729)
 
 ##### Data Structures: Linkedlist
-- [Single Linkedlist](https://github.com/ajayg415/js-data-structuers/tree/master/linkedlist/single-linkedlist)
+- [Single Linkedlist](https://github.com/ajayg415/js-concepts/tree/master/DataStructures/linkedlist/single-linkedlist)
 ##### Big O notation
 - [Big O notation in js](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
 - [A simplified explanation of Big O Notation](https://medium.com/karuna-sehgal/a-simplified-explanation-of-the-big-o-notation-82523585e835)
