@@ -104,3 +104,7 @@ Just to store the links of good articles from various sources I come across
 
 ##### Debounce and Throttle
 - [How to Use Debounce and Throttle in JavaScript](https://medium.com/better-programming/how-to-use-debounce-and-throttle-in-javascript-da95dc151f7b)
+
+##### Currying
+- [What is Currying](https://javascript.info/currying-partials)
+- [Curry vs Partial Application](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
