@@ -7,6 +7,8 @@ Just to store the links of good articles from various sources I come across
 - [Softskills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 - [Top JS frameworks and Topics wo Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
 - [10 tips for better redux](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+- [When Exactly Can You Call Yourself A Senior Developer Part I](https://medium.com/javascript-in-plain-english/when-exactly-can-you-call-yourself-a-senior-developer-part-i-99d3591f2a9c)
+- [When Exactly Can You Call Yourself A Senior Developer Part II](https://medium.com/javascript-in-plain-english/when-exactly-can-you-call-yourself-a-senior-developer-part-ii-b80d9df6cea6)
 
 ##### Window
 - [The Window Object](https://medium.com/javascript-in-plain-english/the-window-document-object-in-javascript-7-useful-things-you-can-do-with-them-14888333ec91)
@@ -17,6 +19,7 @@ Just to store the links of good articles from various sources I come across
 ##### Javascript Datatypes
 - [JavaScript: Reviewing Primitive and Non-Primitive Data Types](https://medium.com/javascript-in-plain-english/javascript-reviewing-primitive-and-non-primitive-data-types-5bc4ca68c3de)
 - [Autoboxing in js?](https://stackoverflow.com/questions/17216847/does-javascript-autobox)
+- [Execution Context](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
 
 
 ##### Javascript
@@ -63,6 +66,9 @@ Just to store the links of good articles from various sources I come across
 
 ##### Data Structures: Array
 - [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+##### Data Structures: Objects
+- [Object Properities / Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 
 ##### Data Structures: Sets
 - [From Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set#Methods)
