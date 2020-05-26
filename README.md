@@ -19,13 +19,12 @@ Just to store the links of good articles from various sources I come across
 ##### Javascript Datatypes
 - [JavaScript: Reviewing Primitive and Non-Primitive Data Types](https://medium.com/javascript-in-plain-english/javascript-reviewing-primitive-and-non-primitive-data-types-5bc4ca68c3de)
 - [Autoboxing in js?](https://stackoverflow.com/questions/17216847/does-javascript-autobox)
-- [Execution Context](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
 
 
 ##### Javascript
 - [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [What is Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
-
+- [Execution Context](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
 
 ##### this
 - [What is `this`](https://hackernoon.com/lets-get-this-this-once-and-for-all-f59d76438d34)
