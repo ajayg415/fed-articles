@@ -9,6 +9,9 @@ Just to store the links of good articles from various sources I come across
 - [10 tips for better redux](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 - [When Exactly Can You Call Yourself A Senior Developer Part I](https://medium.com/javascript-in-plain-english/when-exactly-can-you-call-yourself-a-senior-developer-part-i-99d3591f2a9c)
 - [When Exactly Can You Call Yourself A Senior Developer Part II](https://medium.com/javascript-in-plain-english/when-exactly-can-you-call-yourself-a-senior-developer-part-ii-b80d9df6cea6)
+- Event Bubbling vs Event Capturing
+- event.preventDefault()
+- What is CORS?
 
 ##### Window
 - [The Window Object](https://medium.com/javascript-in-plain-english/the-window-document-object-in-javascript-7-useful-things-you-can-do-with-them-14888333ec91)
@@ -40,6 +43,7 @@ Just to store the links of good articles from various sources I come across
 - [Promise Basics](https://javascript.info/promise-basics)
 - [Promise API](https://javascript.info/promise-api)
 - [Promise Chaning](https://javascript.info/promise-chaining)
+- What is difference between Observable pattern vs Promise?
 ##### Async/Await
 - [What is async/await](https://javascript.info/async-await)
 ##### Fetch 
@@ -68,6 +72,8 @@ Just to store the links of good articles from various sources I come across
 
 ##### Data Structures: Objects
 - [Object Properities / Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+- Deep Cloning vs Shallow Cloning
+- Object. assign vs Object.create
 
 ##### Data Structures: Sets
 - [From Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set#Methods)
