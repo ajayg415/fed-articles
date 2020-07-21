@@ -66,6 +66,7 @@ Just to store the links of good articles from various sources I come across
 
 ##### Proxy
 - [What is Proxy](https://javascript.info/proxy)
+- [Why Proxy is a Gem in JavaScript? with 4 Practical Examples](https://medium.com/javascript-in-plain-english/why-proxies-in-javascript-are-fantastic-db100ddc10a0)
 
 ##### Data Structures: Array
 - [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
