@@ -75,6 +75,7 @@ Just to store the links of good articles from various sources I come across
 - [Object Properities / Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 - [Deep Cloning vs Shallow Cloning](https://medium.com/technofunnel/deep-and-shallow-copy-in-javascript-110f395330c5)
 - Object. assign vs Object.create
+- [Object.freeze() vs Object.seal()](https://medium.com/@wlodarczyk_j/object-freeze-vs-object-seal-ba6d7553a436)
 
 ##### Data Structures: Sets
 - [From Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set#Methods)
