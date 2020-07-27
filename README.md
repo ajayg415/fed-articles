@@ -15,7 +15,7 @@ Just to store the links of good articles from various sources I come across
 
 ##### Dev Toold Tips
 - [Day 1 Console Dollor](https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c)
-- [Day 2 Copy Obj](https://medium.com/@tomsu/devtools-tips-day-2-copying-saving-6aa9bbdadbe2))
+- [Day 2 Copy Obj](https://medium.com/@tomsu/devtools-tips-day-2-copying-saving-6aa9bbdadbe2)
 - [Day 3 Console Methods](https://medium.com/@tomsu/devtools-tips-day-3-console-methods-783791e91990)
 - [Day 4 Console Methods](https://medium.com/@tomsu/devtools-tips-day-4-console-methods-47c854782cef)
 
