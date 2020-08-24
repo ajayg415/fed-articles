@@ -50,8 +50,10 @@ Just to store the links of good articles from various sources I come across
 - [Promise API](https://javascript.info/promise-api)
 - [Promise Chaning](https://javascript.info/promise-chaining)
 - What is difference between Observable pattern vs Promise?
+
 ##### Async/Await
 - [What is async/await](https://javascript.info/async-await)
+
 ##### Fetch 
 - [Fetch API](https://javascript.info/fetch)
 
@@ -97,6 +99,7 @@ Just to store the links of good articles from various sources I come across
 ##### OOPS: Inheritance
 - [Understanding prototype and Inheritance in Javascript](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
 - [Class Inheritance and explanation about `super(this)`](https://javascript.info/class-inheritance)
+- [All you need to know to understand Javascript's Prototype](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)
 
 ##### OOPS: Closure
 - [Javascript Closure - exmaples](https://veerasundar.com/blog/2013/08/javascript-closure-examples/)
