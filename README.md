@@ -1,6 +1,5 @@
 # FED Articles
-Just to store the links of good articles from various sources I come across
-  - Note: Checkout my [FED Topics](https://github.com/ajayg415/fed-articles/tree/topics) branch for the list of JS interview topics.  
+Just to store the links of good articles from various sources I come across.  
 ---
  
 ##### Genaral
