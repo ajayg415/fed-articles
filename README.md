@@ -132,3 +132,6 @@ Just to store the links of good articles from various sources I come across.
 
 ##### Servie Worker
 - [What is Service Worker](https://hackernoon.com/service-workers-62a7b14aa63a)
+
+##### Javascript Internals
+- [JavaScript Internals: JavaScript engine, Run-time environment & setTimeout Web API](https://blog.bitsrc.io/javascript-internals-javascript-engine-run-time-environment-settimeout-web-api-eeed263b1617)
