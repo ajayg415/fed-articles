@@ -90,6 +90,7 @@ Just to store the links of good articles from various sources I come across.
 - [From Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set#Methods)
 - [How to make your code faster using js Sets](https://medium.com/@bretcameron/how-to-make-your-code-faster-using-javascript-sets-b432457a4a77)
 - [Methods and properities of Sets](https://medium.com/better-programming/using-javascript-sets-12b526edf729)
+- [Store Data using Sets and Map](https://medium.com/javascript-in-plain-english/stop-using-objects-and-arrays-to-store-data-289c3edaaa33)
 
 ##### Data Structures: Linkedlist
 - [Single Linkedlist](https://github.com/ajayg415/js-concepts/tree/master/DataStructures/linkedlist/single-linkedlist)
