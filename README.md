@@ -30,6 +30,7 @@ Just to store the links of good articles from various sources I come across.
 ##### Javascript Datatypes
 - [JavaScript: Reviewing Primitive and Non-Primitive Data Types](https://medium.com/javascript-in-plain-english/javascript-reviewing-primitive-and-non-primitive-data-types-5bc4ca68c3de)
 - [Autoboxing in js?](https://stackoverflow.com/questions/17216847/does-javascript-autobox)
+- [JS typeof - How to check the typeof](https://www.freecodecamp.org/news/javascript-typeof-how-to-check-the-type-of-a-variable-or-object-in-js/)
 
 
 ##### Javascript
