@@ -5,3 +5,7 @@
 - [React Suite Components](https://rsuitejs.com/components/overview/)
 - [Primefaces Components](https://primefaces.org/primereact/showcase/#/)
 - [Material UI](https://material-ui.com/)
+
+- [useMemo](https://www.youtube.com/watch?v=qySZIzZvZOY)
+- [useCallback](https://www.youtube.com/watch?v=IL82CzlaCys)
+- [useCallback vs useMemo](https://medium.com/@jan.hesters/usecallback-vs-usememo-c23ad1dc60)
