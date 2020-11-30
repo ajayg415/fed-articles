@@ -4,7 +4,7 @@ Just to store the links of good articles from various sources I come across.
  
 ##### Genaral
 - [Softskills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
-- [Top JS frameworks and Topics wo Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
+- [Top JS frameworks and Topics to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
 - [10 tips for better redux](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 - [When Exactly Can You Call Yourself A Senior Developer Part I](https://medium.com/javascript-in-plain-english/when-exactly-can-you-call-yourself-a-senior-developer-part-i-99d3591f2a9c)
 - [When Exactly Can You Call Yourself A Senior Developer Part II](https://medium.com/javascript-in-plain-english/when-exactly-can-you-call-yourself-a-senior-developer-part-ii-b80d9df6cea6)
