@@ -140,3 +140,6 @@ Just to store the links of good articles from various sources I come across.
 
 ##### Javascript Internals
 - [JavaScript Internals: JavaScript engine, Run-time environment & setTimeout Web API](https://blog.bitsrc.io/javascript-internals-javascript-engine-run-time-environment-settimeout-web-api-eeed263b1617)
+
+##### Web Workers
+- [Multithreading Javascript](https://medium.com/techtrument/multithreading-javascript-46156179cf9a)
