@@ -9,3 +9,5 @@
 - [useMemo](https://www.youtube.com/watch?v=qySZIzZvZOY)
 - [useCallback](https://www.youtube.com/watch?v=IL82CzlaCys)
 - [useCallback vs useMemo](https://medium.com/@jan.hesters/usecallback-vs-usememo-c23ad1dc60)
+- [React Interview Questions](https://www.interviewbit.com/react-interview-questions/)
+- [React Redux Links](https://github.com/markerikson/react-redux-links)
