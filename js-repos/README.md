@@ -7,3 +7,5 @@
 - [Vineela JS  days challenge](https://github.com/ajayg415/JavaScript30)
 - [You don't know JS](https://github.com/ajayg415/You-Dont-Know-JS)
 - [JS design patterns](https://github.com/drenther/js-design-patterns)
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
+- [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
