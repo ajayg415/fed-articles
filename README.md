@@ -17,6 +17,7 @@ Just to store the links of good articles from various sources I come across.
 - [Javascript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
 - [Ultimate Web Developer Roadmap for 2021](https://javascript.plainenglish.io/ultimate-web-developer-roadmap-for-2021-6758edd0bd3f)
 - [7 Major JavaScript Concepts Explained Simply](https://medium.com/madhash/7-major-javascript-concepts-explained-simply-45b0f3336f28)
+- [10 GitHub repositories to become a better JavaScript Developer](https://dev.to/pb/10-github-repositories-which-will-help-you-to-become-a-better-javascript-developer-5om)
 
 ##### Javascript Internals
 - [How Does JavaScript Memory Management Works ?](https://www.youtube.com/watch?v=fpqFM1AaF0c)
