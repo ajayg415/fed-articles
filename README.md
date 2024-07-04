@@ -121,6 +121,7 @@ Just to store the links of good articles from various sources I come across.
 ##### OOPS: Closure
 - [Javascript Closure - exmaples](https://veerasundar.com/blog/2013/08/javascript-closure-examples/)
 - [Getting started with Closure](https://code.likeagirl.io/simplified-javascript-getting-started-with-closures-f40f65317d00)
+- [Closure Counter Example](https://stackoverflow.com/questions/2728278/what-is-a-practical-use-for-a-closure-in-javascript)
 
 
 ##### Sorting Techniques
