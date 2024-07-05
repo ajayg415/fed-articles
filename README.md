@@ -21,6 +21,7 @@ Just to store the links of good articles from various sources I come across.
 - [JavaScript-A-Z-Notes](https://github.com/HariAcidReign/JavaScript-A-Z-Notes/tree/main/Notes)
 - [The JavaScript Cheatsheet you need in 2021](https://javascript.plainenglish.io/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)
 - [5 Differences Between Arrow and Regular Functions](https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/)
+- [Top 30 JavaScript Interview Questions and Answers for 2024](https://javascriptcentric.medium.com/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638)
 
 ##### Javascript Internals
 - [How Does JavaScript Memory Management Works ?](https://www.youtube.com/watch?v=fpqFM1AaF0c)
