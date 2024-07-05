@@ -87,6 +87,7 @@ Just to store the links of good articles from various sources I come across.
 - [Learning JavaScript Design Patterns - A book by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Understanding Design Patterns in JavaScript](https://code.tutsplus.com/tutorials/understanding-design-patterns-in-javascript--net-25930)
 - [Singleton Design Pattern](https://www.dofactory.com/javascript/design-patterns/singleton)
+- [Design Patterns] (https://www.dofactory.com/javascript/design-patterns)
 
 ##### Proxy
 - [What is Proxy](https://javascript.info/proxy)
