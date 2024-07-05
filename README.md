@@ -157,3 +157,6 @@ Just to store the links of good articles from various sources I come across.
 
 ##### Web Workers
 - [Multithreading Javascript](https://medium.com/techtrument/multithreading-javascript-46156179cf9a)
+ 
+##### Micro Frontend Architecture
+- [using ModuleFederationPlugin](https://blog.bitsrc.io/build-microfrontend-in-react-in-3-easy-steps-74790fd0c9fb) (https://github.com/amit08255/react-microfrontend/tree/main)
