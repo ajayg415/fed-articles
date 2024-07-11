@@ -84,6 +84,8 @@ Just to store the links of good articles from various sources I come across.
 - [What is this? call, apply and bind](https://hackernoon.com/lets-get-this-this-once-and-for-all-f59d76438d34)
 - [Javascript: call(), apply() and bind()](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
 - [Understanding the "this" keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
+- ![image](https://github.com/ajayg415/fed-articles/assets/6986599/11f1e65d-fdb5-4027-a77a-bfbc5e9316f1)
+
 
 ##### JS Design Patterns
 - [Javascript Design patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15?source=bookmarks---------0------------------) ([Github Repo](https://github.com/drenther/js-design-patterns))
