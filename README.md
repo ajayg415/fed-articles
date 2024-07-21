@@ -74,6 +74,9 @@ Just to store the links of good articles from various sources I come across.
 
 ##### Fetch 
 - [Fetch API](https://javascript.info/fetch)
+ 
+##### CORS
+- [CORS](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 
 ##### Callstack, Eventloop etc.
 - [What the heck is evengt loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
